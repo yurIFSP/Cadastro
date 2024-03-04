@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Cadastro</string>
+    <string name="btn_reset">Limpar</string>
+    <string name="btn_save">Salvar</string>
+    <string name="lbl_city">Cidade</string>
+    <string name="lbl_join_mail_list">Ingressar na lista de e-mails</string>
+    <string name="lbl_mail">E-mail</string>
+    <string name="lbl_name">Nome Completo</string>
+    <string name="lbl_sex">Sexo</string>
+    <string name="lbl_sex_f">Feminino</string>
+    <string name="lbl_sex_m">Masculino</string>
+    <string name="lbl_state">Estado</string>
+    <string name="lbl_tel">Telefone</string>
+    <style name="Base.Theme.Cadastro" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Cadastro" parent="Base.Theme.Cadastro"/>
+</resources>
